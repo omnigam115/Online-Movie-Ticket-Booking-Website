@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../../Data/C++"
+		},
+		{
+			"path": "../../../Data/HTML"
+		},
+		{
+			"path": "../../../Data/Python"
+		},
+		{
+			"path": "../../../Data/CSS"
+		},
+		{
+			"path": "../../../Data/JavaScript"
+		},
+		{
+			"path": "../Amazon website"
+		},
+		{
+			"path": "../cse326"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Online Ticket Booking System"
+	}
+}
